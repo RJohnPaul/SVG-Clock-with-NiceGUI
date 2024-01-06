@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/832aea08fa2f6bddd55c1676991881a115e0ceda/Frame%207.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/a5488b25967d1802479a3cf9c9a34d274ee006be/Frame%2010.png" alt="Project Banner">
   </br>
 </div>
 ---
