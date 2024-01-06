@@ -2,6 +2,20 @@
 
 # SVG Clock with NiceGUI
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/832aea08fa2f6bddd55c1676991881a115e0ceda/Frame%207.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/273d1ec9eb84f14744338cdd422616bd9ea17155/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
+
+<br/>
+
 This Python script generates an SVG clock using NiceGUI, displaying the current time. The clock design was adapted from [Station_Clock.svg on Wikipedia](https://de.m.wikipedia.org/wiki/Datei:Station_Clock.svg).
 
 ## Description
