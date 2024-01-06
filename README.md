@@ -71,4 +71,9 @@ Ensure you have the following module installed:
 
 This project is licensed under the [MIT License](LICENSE).
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/832aea08fa2f6bddd55c1676991881a115e0ceda/Frame%207.png" alt="Project Banner">
+  </br>
+</div>
 ---
